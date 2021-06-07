@@ -1,0 +1,32 @@
+City_ID,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Description
+0,Sechura,PE,-5.5569,-80.8222,74.77,63,75,16.71,broken clouds
+1,Qaanaaq,GL,77.484,-69.3632,27.77,83,99,3.31,overcast clouds
+2,Saint-Philippe,RE,-21.3585,55.7679,70.48,82,90,14.05,light rain
+3,New Norfolk,AU,-42.7826,147.0587,49.91,73,84,1.99,broken clouds
+4,Komsomolskiy,UZ,40.4272,71.7189,74.12,31,18,2.3,few clouds
+5,Longyearbyen,SJ,78.2186,15.6401,37.24,81,90,29.93,moderate rain
+6,Tiznit,MA,29.5833,-9.5,61.93,72,66,3.29,broken clouds
+7,Cabildo,AR,-38.4842,-61.8954,48.24,55,99,4.94,overcast clouds
+8,Hobart,AU,-42.8794,147.3294,50.11,84,0,1.01,moderate rain
+9,Mataura,NZ,-46.1927,168.8643,49.48,93,49,2.62,scattered clouds
+10,Kloulklubed,PW,7.0419,134.2556,83.53,74,65,6.78,broken clouds
+11,Jamestown,US,42.097,-79.2353,66.07,63,90,8.05,overcast clouds
+12,Jamestown,US,42.097,-79.2353,66.07,63,90,8.05,overcast clouds
+13,Bredy,RU,52.4153,60.3411,61.03,51,42,7.16,scattered clouds
+14,Punta Arenas,CL,-53.15,-70.9167,28.51,80,20,5.28,few clouds
+15,Avarua,CK,-21.2078,-159.775,80.65,65,65,9.22,broken clouds
+16,Barrow,US,71.2906,-156.7887,30.88,84,100,18.92,overcast clouds
+17,Rikitea,PF,-23.1203,-134.9692,72.52,62,77,16.64,broken clouds
+18,Longyearbyen,SJ,78.2186,15.6401,37.24,81,90,29.93,moderate rain
+19,Teguise,ES,29.0605,-13.564,64.62,77,20,15.39,few clouds
+20,Ushuaia,AR,-54.8,-68.3,24.03,93,27,5.46,scattered clouds
+21,Sao Miguel Do Araguaia,BR,-13.275,-50.1628,79.27,38,32,0.65,scattered clouds
+22,Muravlenko,RU,63.7898,74.523,35.8,69,59,14.5,broken clouds
+23,Fortuna,US,40.5982,-124.1573,94.48,84,1,16.11,clear sky
+24,Yeniseysk,RU,58.4497,92.1703,56.41,98,92,2.51,overcast clouds
+25,Chuy,UY,-33.6971,-53.4616,53.31,68,48,10.6,scattered clouds
+26,Rikitea,PF,-23.1203,-134.9692,72.52,62,77,16.64,broken clouds
+27,Cabo San Lucas,MX,22.8909,-109.9124,96.8,44,24,10.42,few clouds
+28,Quatre Cocos,MU,-20.2078,57.7625,76.08,70,56,17.78,broken clouds
+29,Comodoro Rivadavia,AR,-45.8667,-67.5,47.59,62,100,3.4,overcast clouds
+30,Ulladulla,AU,-35.35,150.4667,52.09,62,100,2.8,light rain

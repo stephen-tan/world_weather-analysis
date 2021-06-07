@@ -1,0 +1,30 @@
+City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
+0,Sechura,PE,74.77,broken clouds,-5.5569,-80.8222,Hospedaje Costa Bella
+1,Qaanaaq,GL,27.77,overcast clouds,77.484,-69.3632,Qaanaaq Hotel
+2,Saint-Philippe,RE,70.48,light rain,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
+3,New Norfolk,AU,49.91,broken clouds,-42.7826,147.0587,The Shingles Riverside Cottages
+4,Komsomolskiy,UZ,74.12,few clouds,40.4272,71.7189,Ikathouse
+5,Longyearbyen,SJ,37.24,moderate rain,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+8,Hobart,AU,50.11,moderate rain,-42.8794,147.3294,Mantra on Collins Hobart
+9,Mataura,NZ,49.48,scattered clouds,-46.1927,168.8643,Ellie's Villa
+10,Kloulklubed,PW,83.53,broken clouds,7.0419,134.2556,Storyboard Beach Resort
+11,Jamestown,US,66.07,overcast clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+12,Jamestown,US,66.07,overcast clouds,42.097,-79.2353,Hampton Inn & Suites Jamestown
+13,Bredy,RU,61.03,scattered clouds,52.4153,60.3411,"Sel'skiy Gostevoy Dom ""Kolos"""
+14,Punta Arenas,CL,28.51,few clouds,-53.15,-70.9167,Hotel Dreams Del Estrecho
+15,Avarua,CK,80.65,broken clouds,-21.2078,-159.775,Paradise Inn
+16,Barrow,US,30.88,overcast clouds,71.2906,-156.7887,King Eider Inn
+17,Rikitea,PF,72.52,broken clouds,-23.1203,-134.9692,Pension Maro'i
+18,Longyearbyen,SJ,37.24,moderate rain,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+19,Teguise,ES,64.62,few clouds,29.0605,-13.564,B&B La Casona de Nazaret
+20,Ushuaia,AR,24.03,scattered clouds,-54.8,-68.3,Albatros Hotel
+21,Sao Miguel Do Araguaia,BR,79.27,scattered clouds,-13.275,-50.1628,Hotel Executivo Palace
+22,Muravlenko,RU,35.8,broken clouds,63.7898,74.523,Hostel Rus Muravlenko
+23,Fortuna,US,94.48,clear sky,40.5982,-124.1573,Super 8 by Wyndham Fortuna
+24,Yeniseysk,RU,56.41,overcast clouds,58.4497,92.1703,"""Domino"""
+25,Chuy,UY,53.31,scattered clouds,-33.6971,-53.4616,Nuevo Hotel Plaza
+26,Rikitea,PF,72.52,broken clouds,-23.1203,-134.9692,Pension Maro'i
+27,Cabo San Lucas,MX,96.8,few clouds,22.8909,-109.9124,Tesoro Los Cabos
+28,Quatre Cocos,MU,76.08,broken clouds,-20.2078,57.7625,Emeraude Beach Attitude Hotel
+29,Comodoro Rivadavia,AR,47.59,overcast clouds,-45.8667,-67.5,Austral Hotel
+30,Ulladulla,AU,52.09,light rain,-35.35,150.4667,Sandpiper Motel
